@@ -4,6 +4,7 @@
 - esp-now
 
 ## hardware
+- ESP32-S3-WROOM1
 - mobile phone mic or laptop mic (input sound)
 - Speaker Horn Audio loudspeaker bel musik 0.5W 0.5 Watt 8 OHM 40mm 4 CM (output sound)
 - LED i2c (show connected status)
